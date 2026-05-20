@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home #splash
 # author_profile: true
----
 layout: splash # home
 title: "Splish splash"
 header:
