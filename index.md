@@ -6,9 +6,9 @@
 # author_profile: true
 layout: splash # home
 title: "Splish splash"
-<img src="/assets/images/STEAMLogo.svg" width="600" height="600">
+# <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
-  # overlay_image: /assets/images/STEAMLogo.svg
+  # overlay_image: /assets/images/CassandraSTEAM_head.jpg
   caption: "Cassandra STEAM Press"
   cta_label: "Learn More"
   cta_url: "/about/"
