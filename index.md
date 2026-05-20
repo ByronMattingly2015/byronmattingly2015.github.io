@@ -8,6 +8,8 @@ layout: splash # home
 title: "Splish splash"
 # <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   cta_label: "Learn More"
