@@ -9,7 +9,7 @@ title: "Splish splash"
 # <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.75"
   overlay_image: /assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   cta_label: "Learn More"
@@ -22,4 +22,8 @@ feature_row:
     url: "#"
     btn_label: "Go"
     btn_class: "btn--primary"
+  actions:
+    - label: "Download"
+      url: "#test-link"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 ---
