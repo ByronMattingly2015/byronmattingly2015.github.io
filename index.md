@@ -8,7 +8,7 @@ layout: splash # home
 title: "Splish splash"
 # <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
-  overlay_image: /assets/images/CassandraSTEAM_head.jpg
+  overlay_image: /assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   cta_label: "Learn More"
   cta_url: "/about/"
