@@ -6,6 +6,7 @@
 # author_profile: true
 layout: splash # home
 title: "Splish splash"
+<img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
   # overlay_image: /assets/images/STEAMLogo.svg
   caption: "Cassandra STEAM Press"
@@ -19,5 +20,4 @@ feature_row:
     url: "#"
     btn_label: "Go"
     btn_class: "btn--primary"
-<img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 ---
