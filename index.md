@@ -10,7 +10,7 @@ title: "Splish splash"
 header:
   overlay_color: "#000"
   overlay_filter: "0.75"
-  overlay_image: /assets/images/coffee.jpg
+  overlay_image: /assets/images/CassandraSTEAM_head.jpg #/assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   cta_label: "Learn More"
   cta_url: "/about/"
