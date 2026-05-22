@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/feat1-1.jpg
     title: "Volume 1"
     excerpt: "GPIO and Asynchronous Programming with Microdot"
-    url: "#test-link"
+    url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/feat1-2.jpg
@@ -49,5 +49,5 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+# {% include feature_row %}
 {% include feature_row id="intro" type="center" %}  
-{% include feature_row %}
