@@ -13,7 +13,7 @@ header:
   overlay_image: /assets/images/CassandraSTEAM_head.jpg #/assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   actions:
-    - label: "Buy on Amazon"  
+    - label: "Buy on Amazon" <br/> 
       url: "https://github.com/mmistakes/minimal-mistakes/"
     - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
