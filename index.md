@@ -6,14 +6,14 @@
 # author_profile: true
 layout: splash # home
 title: "Raspberry Pi Pico and Pico 2W"
-cta_label: "Learn More"
-cta_url: "/about/"
+# cta_label: "Learn More"
+# cta_url: "/about/"
 # <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
   overlay_color: "#000"
   # overlay_filter: "0.1"
   overlay_image: /assets/images/STEAMLogo.svg #/assets/images/CassandraSTEAM_head.jpg /assets/images/coffee.jpg
-  caption: "Cassandra STEAM Press"
+  caption: "&copy; Cassandra STEAM Press"
   actions:
     - label: "Buy on Amazon"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
