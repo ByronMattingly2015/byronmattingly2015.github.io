@@ -21,8 +21,8 @@ header:
       url: "https://github.com"  
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.
-# Centered with `type="center"`'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'  
+# Centered with `type="center"`
 feature_row:
   - image_path: /assets/images/feat1-1.jpg
     title: "Volume 1"
