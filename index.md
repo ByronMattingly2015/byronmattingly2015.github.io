@@ -12,7 +12,7 @@ cta_url: "/about/"
 header:
   overlay_color: "#000"
   # overlay_filter: "0.1"
-  overlay_image: /assets/images/CassandraSTEAM_head.jpg #/assets/images/coffee.jpg
+  overlay_image: /assets/images/STEAMLogo.svg #/assets/images/CassandraSTEAM_head.jpg /assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   actions:
     - label: "Buy on Amazon"  
