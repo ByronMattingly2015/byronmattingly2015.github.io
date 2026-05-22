@@ -6,6 +6,8 @@
 # author_profile: true
 layout: splash # home
 title: "Raspberry Pi Pico and Pico 2W"
+cta_label: "Learn More"
+cta_url: "/about/"
 # <img src="/assets/images/STEAMLogo.svg" width="600" height="600">
 header:
   overlay_color: "#000"
@@ -15,10 +17,8 @@ header:
   actions:
     - label: "Buy on Amazon"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: <br/>"Buy on Ingram-Spark"
+    - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
-  # cta_label: "Learn More"
-  # cta_url: "/about/"
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.
