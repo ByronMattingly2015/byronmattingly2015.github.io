@@ -13,9 +13,9 @@ header:
   overlay_image: /assets/images/CassandraSTEAM_head.jpg #/assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   actions:
-    - label: "Buy on Amazon" <br/> 
+    - label: "Buy on Amazon"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: "Buy on Ingram-Spark"
+    - label: <br/>"Buy on Ingram-Spark"
       url: "https://github.com"  
   # cta_label: "Learn More"
   # cta_url: "/about/"
