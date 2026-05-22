@@ -12,8 +12,13 @@ header:
   # overlay_filter: "0.1"
   overlay_image: /assets/images/CassandraSTEAM_head.jpg #/assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
-  cta_label: "Learn More"
-  cta_url: "/about/"
+    actions:
+    - label: "Buy on Amazon"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Buy on Ingram-Spark"
+      url: "#bar"  
+  # cta_label: "Learn More"
+  # cta_url: "/about/"
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
@@ -36,6 +41,13 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+      - image_path: /assets/images/feat1-3.jpg
+    title: "Volume 4"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+      - image_path: /assets/images/feat1-4.jpg
 ---
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="center" %}  
 {% include feature_row %}
