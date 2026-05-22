@@ -16,12 +16,13 @@ header:
     - label: "Buy on Amazon"
       url: "https://github.com/mmistakes/minimal-mistakes/"
     - label: "Buy on Ingram-Spark"
-      url: "#bar"  
+      url: "https://github.com"  
   # cta_label: "Learn More"
   # cta_url: "/about/"
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.
+# Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/feat1-1.jpg
     title: "Volume 1"
@@ -41,7 +42,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-      - image_path: /assets/images/feat1-3.jpg
+  - image_path: /assets/images/feat1-4.jpg
     title: "Volume 4"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
