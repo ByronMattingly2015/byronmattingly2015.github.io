@@ -13,7 +13,7 @@ header:
   overlay_color: "#000"
   # overlay_filter: "0.1"
   overlay_image: /assets/images/STEAMLogo.svg #/assets/images/CassandraSTEAM_head.jpg /assets/images/coffee.jpg
-  caption: "&copy; Cassandra STEAM Press"
+  caption: "Cassandra STEAM Press"
   actions:
     - label: "Buy on Amazon"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -38,12 +38,6 @@ feature_row:
     btn_class: "btn--primary" # "btn--secondar"
   - image_path: /assets/images/Vol3_600x840.jpg # feat1-3.jpg
     title: "Volume 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/feat1-4.jpg
-    title: "Volume 4"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
