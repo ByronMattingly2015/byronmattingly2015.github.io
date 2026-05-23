@@ -24,19 +24,19 @@ intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'  
 # Centered with `type="center"`
 feature_row:
-  - image_path: /assets/images/Vol1_600x840.jpg # feat1-1.jpg
+  - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg
     title: "Volume 1"
     excerpt: "**GPIO and Asynchronous Programming with Microdot**<br/>A gentle introduction to the world of Entity Event-Driven Embedded Systems"
     url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Vol2_600x840.jpg # feat1-2.jpg
+  - image_path: /assets/images/Canva3D_vol2.png # Vol2_600x840.jpg
     title: "Volume 2"
     excerpt: "**Pulse Width Modulation and DC Motors**<br/>An introduction to the complex world of DC motors in Entity Event-Driven Embedded Systems"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary" # "btn--secondar"
-  - image_path: /assets/images/Vol3_600x840.jpg # feat1-3.jpg
+  - image_path: /assets/images/Canva3D_vol3.png # Vol3_600x840.jpg
     title: "Volume 3"
     excerpt: "**Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W"
     url: "#test-link"
