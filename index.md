@@ -38,7 +38,7 @@ feature_row:
     btn_class: "btn--primary" # "btn--secondar"
   - image_path: /assets/images/Canva_Vol3_ComingSoon_600x809-2026.05.23.png # Canva3D_vol3.png Vol3_600x840.jpg
     title: "Volume 3"
-    excerpt: "**Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W"
+    excerpt: "**Expected Late Fall 2026: Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
