@@ -13,7 +13,7 @@ header:
     - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
 feature_row_left:
-  - image_path: /assets/splash/Canva3D_vol1.png # Vol1_600x840.jpg #DIYBookCovers_Vol1_3D.jpg
+  - image_path: /assets/splash/Canva3D_vol1.png # Vol1_600x840.jpg DIYBookCovers_Vol1_3D.jpg
     title: "Book Description"
     excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems."
 #    url: "#test-link"
@@ -35,9 +35,9 @@ As you work through the examples in this guide, you will:
 * Transform your Pico into an Entity Event-Driven Embedded System using Microdot
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
   
-**Who This Book Is For**  <br/> 
+**Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
 It is assumed you know the basics of Python and have a host computer (a Raspberry Pi, Windows PC, or Apple mac), a Pico W or Pico 2W (these are available with the headers already soldered on), and some electronic components (such as a breadboard, LEDs, a button switch and Piezo buzzer). 
   
-**About the Author**  <br/> 
+**About the Author**   <br/>
 Byron Mattingly has been an embedded systems software engineer and hands-on technical manager for over 20 years in regulated development in the medical devices, pharmaceutical, and avionics industries. Currently his work is focused on designing and integrating complex IT systems and training and deploying AI/ML models interacting with embedded systems. An early adopter of the Raspberry Pi platform, he is an open source contributor and avid proponent of STEAM education.
