@@ -1,5 +1,5 @@
 ---
-title: "Expected Late Fall 2026: <br/>Volume 3: Communicating with the UART, I2C, and SPI Interfaces"
+title: "Volume 3: Communicating with the UART, I2C, and SPI Interfaces"
 layout: splash # single
 permalink: /vol3_landing/
 header:
@@ -14,7 +14,7 @@ header:
       url: "https://github.com"  
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol3_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
-    title: "Book Description"
+    title: "Expected Late Fall 2026: <br/>Book Description"
     excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W."
     url: "#test-link"
     btn_label: "Read Sample"
