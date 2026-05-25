@@ -1,6 +1,6 @@
 main:
   - title: "Vol 1"
-    url: /page-vol1_landing/
+    url: /vol1_landing/
   - title: "About"
     url: /about/
 #  - title: "Quick-Start Guide"
