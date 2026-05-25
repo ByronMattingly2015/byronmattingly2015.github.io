@@ -19,10 +19,9 @@ feature_row_left:
     url: "#test-link"
     btn_label: "Read Sample"
     btn_class: "btn--primary"
-
+---
 {% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}  
----
 
 **Learn by Doing Hands-On Examples**  <br/>
 As you work through the examples in this guide, you will:  
