@@ -1,6 +1,10 @@
 main:
-  - title: "Vol 1"
+  - title: "Volume 1"
     url: /vol1_landing/
+  - title: "Volume 2"
+    url: /vol2_landing/
+  - title: "Volume 3"
+    url: /vol3_landing/
   - title: "About"
     url: /about/
 #  - title: "Quick-Start Guide"
