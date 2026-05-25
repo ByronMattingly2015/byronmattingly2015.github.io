@@ -13,8 +13,8 @@ header:
     - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
 feature_row_left:
-  - image_path: /assets/splash/DIYBookCovers_Vol1_3D.jpg
-    title: "Left aligned placeholder 1"
+  - image_path: /assets/splash/Canva3D_vol1.png # Vol1_600x840.jpg #DIYBookCovers_Vol1_3D.jpg
+    title: "Book Description"
     excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems."
 #    url: "#test-link"
 #    btn_label: "Read More"
@@ -39,5 +39,5 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 Byron Mattingly has been an embedded systems software engineer and hands-on technical manager for over 20 years in regulated development in the medical devices, pharmaceutical, and avionics industries. Currently his work is focused on designing and integrating complex IT systems and training and deploying AI/ML models interacting with embedded systems. An early adopter of the Raspberry Pi platform, he is an open source contributor and avid proponent of STEAM education.
 
 ---
-{% include feature_row id="feature_row_left" type="left" %}  
 {% include feature_row %}
+{% include feature_row id="feature_row_left" type="left" %}  
