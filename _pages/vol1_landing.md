@@ -25,7 +25,7 @@ feature_row_left:
 {% include feature_row id="feature_row_left" type="left" %}  
 ---
 
-**Learning by Doing: Hands-On Practical Examples**  <br/>
+**Learn by Doing Hands-On Examples**  <br/>
 As you work through the examples in this guide, you will:  
 * Start writing MicroPython for your Pico using Thonny (or your favorite IDE)
 * Become familiar with your Pico's computational and machine-to-machine (M2M) capabilities using JSON
