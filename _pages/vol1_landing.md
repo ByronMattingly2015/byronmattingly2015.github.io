@@ -13,9 +13,9 @@ header:
     - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
 feature_row_left:
-  - image_path: /assets/images/DIYBookCovers_Vol1_3D.jpg # Canva3D_vol1.png # Vol1_600x840.jpg 
+  - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg DIYBookCovers_Vol1_3D.jpg
     title: "Book Description"
-    excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems."
+    excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems. Using MicroPython, the Raspberry Pi Pico W and Pico 2W, makers, hobbyists, students and professionals can complete projects which are capable of participating in Event-Driven Architectures. This practical step-by-step guide builds knowledge on creating Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot taking you from “Hello, world!” to interrupt driven concurrent systems. It gets you started with using the Pico's GPIO pins and WiFi by way of a few LEDs and asynchronous programming with Microdot, a remarkably small ultra-lightweight web server framework that's even lighter(!) than Python Flask."
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
@@ -25,8 +25,6 @@ feature_row_left:
 {% include feature_row id="feature_row_left" type="left" %}  
 ---
 
-Using MicroPython, the Raspberry Pi Pico W and Pico 2W, makers, hobbyists, students and professionals can complete projects which are capable of participating in Event-Driven Architectures. This practical step-by-step guide builds knowledge on creating Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot taking you from “Hello, world!” to interrupt driven concurrent systems. It gets you started with using the Pico's GPIO pins and WiFi by way of a few LEDs and asynchronous programming with Microdot, a remarkably small ultra-lightweight web server framework that's even lighter(!) than Python Flask.  
- 
 As you work through the examples in this guide, you will:  
 * Start writing MicroPython for your Pico using Thonny (or your favorite IDE)
 * Become familiar with your Pico's computational and machine-to-machine (M2M) capabilities using JSON
