@@ -13,7 +13,7 @@ header:
     - label: "Buy on Ingram-Spark"
       url: "https://github.com"  
 feature_row_left:
-  - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg DIYBookCovers_Vol1_3D.jpg
+  - image_path: /assets/images/DIYBookCovers_Vol1_3D.jpg # Canva3D_vol1.png # Vol1_600x840.jpg 
     title: "Book Description"
     excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems."
 #    url: "#test-link"
