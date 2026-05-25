@@ -20,7 +20,6 @@ feature_row_left:
     btn_label: "Read Sample"
     btn_class: "btn--primary"
 
----
 {% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}  
 ---
