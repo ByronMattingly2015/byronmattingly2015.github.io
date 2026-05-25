@@ -19,6 +19,10 @@ feature_row_left:
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
+
+---
+{% include feature_row %}
+{% include feature_row id="feature_row_left" type="left" %}  
 ---
 
 Using MicroPython, the Raspberry Pi Pico W and Pico 2W, makers, hobbyists, students and professionals can complete projects which are capable of participating in Event-Driven Architectures. This practical step-by-step guide builds knowledge on creating Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot taking you from “Hello, world!” to interrupt driven concurrent systems. It gets you started with using the Pico's GPIO pins and WiFi by way of a few LEDs and asynchronous programming with Microdot, a remarkably small ultra-lightweight web server framework that's even lighter(!) than Python Flask.  
@@ -31,13 +35,9 @@ As you work through the examples in this guide, you will:
 * Transform your Pico into an Entity Event-Driven Embedded System using Microdot
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
   
-**Who This Book Is For**   
+**Who This Book Is For**  <br/> 
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
 It is assumed you know the basics of Python and have a host computer (a Raspberry Pi, Windows PC, or Apple mac), a Pico W or Pico 2W (these are available with the headers already soldered on), and some electronic components (such as a breadboard, LEDs, a button switch and Piezo buzzer). 
   
-**About the Author**   
+**About the Author**  <br/> 
 Byron Mattingly has been an embedded systems software engineer and hands-on technical manager for over 20 years in regulated development in the medical devices, pharmaceutical, and avionics industries. Currently his work is focused on designing and integrating complex IT systems and training and deploying AI/ML models interacting with embedded systems. An early adopter of the Raspberry Pi platform, he is an open source contributor and avid proponent of STEAM education.
-
----
-{% include feature_row %}
-{% include feature_row id="feature_row_left" type="left" %}  
