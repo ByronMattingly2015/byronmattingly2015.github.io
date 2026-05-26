@@ -21,7 +21,24 @@ header:
       url: "https://github.com"  
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin.'  
+  - excerpt: 'This series is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems.
+<br/><br/>
+Using a cooperative multitasking approach, makers, hobbyists, students and professionals can learn how to build embedded systems that are capable of participating in Event-Driven Architectures.
+<br/><br/>
+These step-by-step and straightforward guides take you from “Hello, world!” to implementing concurrency on your Pico W and Pico 2W systems.
+
+They simplify the complexity of implementing responsive and resource efficient embedded systems that can provide microservices and other data consumers / AI Agents with important important “real-time” event information about themselves and the physical world with which they interact.
+<br/><br/>
+As you work through the examples in these books, you can learn how to
+* Start writing MicroPython for your Pico using Thonny (or your favorite IDE)
+* Become familiar with your Pico's computational and machine-to-machine (M2M) capabilities using JSON
+* Learn how to start connecting and controlling the physical world with your Pico's GPIO pins
+* Discover how to transform your wireless-enabled Pico into an Entity Event-Driven Embedded System with socket programming
+* Transform your Pico into an Entity Event-Driven Embedded System using MicroPython's asyncio library and Microdot
+* Use PWM to simulate an analog output signal on your Pico
+* Discover how to position an SG90 servo precisely with a PWM signal
+* Learn how to drive a TT DC Gearbox Motor with an H-bridge and PWM
+* Start full and half stepping a 28BYJ-48 stepper motor with a Darlington Array'  
 # Centered with `type="center"`
 feature_row:
   - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg
