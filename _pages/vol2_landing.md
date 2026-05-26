@@ -31,7 +31,8 @@ As you work through the step-by-step examples, you will:
 * Learn how to drive a TT DC Gearbox Motor with an H-bridge and PWM
 * Start full and half stepping a 28BYJ-48 stepper motor with a Darlington Array
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
-<br/>[Download Source Code]("https://github.com"){: .btn .btn--primary}
+<br/>[View Source Code](https://github.com/cassandrasteampress/event-driven-pico-code-vol2){: .btn .btn--primary target="_blank"}
+<br/>[Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol2){: .btn .btn--primary target="_blank"}
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
