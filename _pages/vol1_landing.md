@@ -31,7 +31,7 @@ As you work through the examples in this guide, you will:
 * Discover how to transform your wireless-enabled Pico into an Entity Event-Driven Embedded System with socket programming
 * Transform your Pico into an Entity Event-Driven Embedded System using Microdot
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
-<br/>[View Source Code on GitHub]("https://github.com/cassandrasteampress/event-driven-pico-code-vol1"){: .btn .btn--primary target="_blank"}
+<br/>[View Source Code]("https://github.com/cassandrasteampress/event-driven-pico-code-vol1"){: .btn .btn--primary target="_blank"}
 <br/>[Electronics Used]("https://github.com/cassandrasteampress/event-driven-pico-kits"){: .btn .btn--primary target="_blank"}
   
 **Who This Book Is For**   <br/>
