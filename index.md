@@ -24,7 +24,7 @@ intro:
   - excerpt: 'This series is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems.<br/><br/>
 Using a cooperative multitasking approach, makers, hobbyists, students and professionals can learn how to build embedded systems that are capable of participating in Event-Driven Architectures.
 <br/><br/> These step-by-step and straightforward guides take you from “Hello, world!” to implementing concurrency on your Pico W and Pico 2W systems. They simplify the complexity of implementing responsive and resource efficient embedded systems that can provide microservices and other data consumers / AI Agents with important important “real-time” event information about themselves and the physical world with which they interact.'
-# Centered with `type="center"`
+excerpt_class: "text-left" # Centered with `type="center"`
 feature_row:
   - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg
     title: "Volume 1"
