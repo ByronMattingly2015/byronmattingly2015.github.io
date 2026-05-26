@@ -18,7 +18,7 @@ feature_row_left:
     excerpt: "This book is a streamlined introduction to the complex world of DC motors in Entity Event-Driven Embedded Systems. <br/><br/>Using MicroPython’s asyncio library and Microdot, makers, hobbyists, students and professionals can provide microservices and other data consumers / AI Agents in Event-Driven Architectures with important “real-time” information about the operating characteristics of DC motors controlled by Entity Event-Driven Embedded Systems using the Raspberry Pi Pico W or Pico 2W. <br/><br/>This practical and straightforward guide takes you from fading an LED with a potentiometer and Pulse Width Modulation (PWM) to full and half step sequencing of a stepper motor. It gets you started with using the Pico's GPIO pins and PWM by way of some of the most common but low-cost DC motors available today."
     url: "#test-link"
     btn_label: "Read Sample"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
 ---
 {% include feature_row %}
@@ -31,7 +31,7 @@ As you work through the step-by-step examples, you will:
 * Learn how to drive a TT DC Gearbox Motor with an H-bridge and PWM
 * Start full and half stepping a 28BYJ-48 stepper motor with a Darlington Array
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
-
+[Download Source Code]("https://github.com"){: .btn .btn--primary}
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
