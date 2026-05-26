@@ -18,7 +18,7 @@ feature_row_left:
     excerpt: "This book is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems. <br/><br/>Using MicroPython, the Raspberry Pi Pico W and Pico 2W, makers, hobbyists, students and professionals can complete projects which are capable of participating in Event-Driven Architectures. <br/><br/>This practical step-by-step guide builds knowledge on creating Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot taking you from “Hello, world!” to interrupt driven concurrent systems. <br/><br/>It gets you started with using the Pico's GPIO pins and WiFi by way of a few LEDs and asynchronous programming with Microdot, a remarkably small ultra-lightweight web server framework that's even lighter(!) than Python Flask."
     url: "#test-link"
     btn_label: "Read Sample"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 ---
 {% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}  
@@ -31,7 +31,7 @@ As you work through the examples in this guide, you will:
 * Discover how to transform your wireless-enabled Pico into an Entity Event-Driven Embedded System with socket programming
 * Transform your Pico into an Entity Event-Driven Embedded System using Microdot
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
-[Download Source Code]("https://github.com"){: .btn .btn--primary}
+[Download Source Code]("https://github.com"){: .btn .btn--success}
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
