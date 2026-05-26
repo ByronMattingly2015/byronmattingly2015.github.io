@@ -21,15 +21,7 @@ header:
       url: "https://github.com"  
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
-  - excerpt: 'This series is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems.
-<br/><br/>
-Using a cooperative multitasking approach, makers, hobbyists, students and professionals can learn how to build embedded systems that are capable of participating in Event-Driven Architectures.
-<br/><br/>
-These step-by-step and straightforward guides take you from “Hello, world!” to implementing concurrency on your Pico W and Pico 2W systems.
-
-They simplify the complexity of implementing responsive and resource efficient embedded systems that can provide microservices and other data consumers / AI Agents with important important “real-time” event information about themselves and the physical world with which they interact.
-<br/><br/>
-As you work through the examples in these books, you can learn how to
+  - excerpt: 'This series is a streamlined but gentle introduction to the world of Entity Event-Driven Embedded Systems.<br/><br/> Using a cooperative multitasking approach, makers, hobbyists, students and professionals can learn how to build embedded systems that are capable of participating in Event-Driven Architectures. <br/><br/> These step-by-step and straightforward guides take you from “Hello, world!” to implementing concurrency on your Pico W and Pico 2W systems. They simplify the complexity of implementing responsive and resource efficient embedded systems that can provide microservices and other data consumers / AI Agents with important important “real-time” event information about themselves and the physical world with which they interact. <br/><br/> As you work through the examples in these books, you can learn how to
 * Start writing MicroPython for your Pico using Thonny (or your favorite IDE)
 * Become familiar with your Pico's computational and machine-to-machine (M2M) capabilities using JSON
 * Learn how to start connecting and controlling the physical world with your Pico's GPIO pins
