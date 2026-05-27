@@ -33,7 +33,7 @@ As you work through the examples in this guide, you will:
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
 <br/>[View Source Code](https://github.com/cassandrasteampress/event-driven-pico-code-vol1){: .btn .btn--success target="_blank"}
 <br/>[Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol1){: .btn .btn--info target="_blank"}
-[Buy on Amazon](https://amazon.com){: .btn .btn--info target="_blank"}
+[Buy on Amazon](https://www.amazon.com/shop/byronmattingly){: .btn .btn--info target="_blank"}
 
   
 **Who This Book Is For**   <br/>
