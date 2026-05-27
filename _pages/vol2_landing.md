@@ -32,7 +32,7 @@ As you work through the step-by-step examples, you will:
 * Start full and half stepping a 28BYJ-48 stepper motor with a Darlington Array
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
 <br/>[View Source Code](https://github.com/cassandrasteampress/event-driven-pico-code-vol2){: .btn .btn--success target="_blank"}
-<br/>[Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol2){: .btn .btn--info target="_blank"}
+[Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol2){: .btn .btn--info target="_blank"}
 [Buy on Amazon](https://www.amazon.com/shop/byronmattingly){: .btn .btn--info target="_blank"}
   
 **Who This Book Is For**   <br/>
