@@ -34,7 +34,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--success"
     url: "[test-link](https://www.amazon.com/shop/byronmattingly)"
-    btn_label: "Buy on Amazon)
+    btn_label: "Buy on Amazon"
     btn_class: "btn--linkedin"
   - image_path: /assets/images/Canva3D_vol2.png # Vol2_600x840.jpg
     title: "Volume 2"
