@@ -34,7 +34,11 @@ As you work through the examples in this guide, you will:
 <br/>[Get Source Code](https://github.com/cassandrasteampress/event-driven-pico-code-vol1){: .btn .btn--success target="_blank"}
 <br/>[Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol1){: .btn .btn--info target="_blank"}
 [Buy on Amazon](https://www.amazon.com/shop/byronmattingly){: .btn .btn--info target="_blank"}
-
+<br/>[bluesky-color](https://github.com/){: .btn .btn--bluesky target="_blank"}
+<br/>[facebook-color](https://github.com/){: .btn .btn--facebook target="_blank"}
+<br/>[linkedin-color](https://github.com/){: .btn .btn--linkedin target="_blank"}
+<br/>[mastodon-color](https://github.com/){: .btn .btn--mastodon target="_blank"}
+<br/>[twitter-color](https://github.com/){: .btn .btn--twitter target="_blank"}
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
