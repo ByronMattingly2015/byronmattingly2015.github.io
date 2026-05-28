@@ -33,7 +33,7 @@ As you work through the step-by-step examples, you will:
 * Implement concurrency on your Entity Event-Driven Embedded Pico Systems using MicroPython’s asyncio library and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
 <br/>[Get Source Code](https://github.com/cassandrasteampress/event-driven-pico-code-vol2){: .btn .btn--success target="_blank"}
 [Electronics Used](https://github.com/CassandraSTEAMPress/event-driven-pico-kits/tree/main/vol2){: .btn .btn--warning target="_blank"}
-[Kits on Amazon](https://www.amazon.com/shop/byronmattingly){: .btn .btn--linkedin target="_blank"}
+[Parts on Amazon](https://www.amazon.com/shop/byronmattingly){: .btn .btn--linkedin target="_blank"}
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
