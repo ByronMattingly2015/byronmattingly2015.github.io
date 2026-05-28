@@ -32,19 +32,19 @@ feature_row:
     excerpt: "**GPIO and Asynchronous Programming with Microdot**<br/>A gentle introduction to the world of Entity Event-Driven Embedded Systems"
     url: "/about/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/Canva3D_vol2.png # Vol2_600x840.jpg
     title: "Volume 2"
     excerpt: "**Pulse Width Modulation and DC Motors**<br/>An introduction to the complex world of DC motors in Entity Event-Driven Embedded Systems"
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary" # "btn--secondar"
+    btn_class: "btn--success" # "btn--secondar"
   - image_path: /assets/images/Canva3D_vol3.png # Canva_Vol3_ComingSoon_600x809-2026.05.23.png # Vol3_600x840.jpg
     title: "Volume 3"
-    excerpt: "**Expected Late Fall 2026: Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W"
+    excerpt: "**Expected Late Fall 2026: Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems"
     url: "#test-link"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   
 ---
 {% include feature_row id="intro" type="center"%}    
