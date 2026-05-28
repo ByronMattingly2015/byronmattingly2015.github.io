@@ -30,19 +30,19 @@ feature_row:
   - image_path: /assets/images/Canva3D_vol1.png # Vol1_600x840.jpg
     title: "Volume 1"
     excerpt: "**GPIO and Asynchronous Programming with Microdot**<br/>A gentle introduction to the world of Entity Event-Driven Embedded Systems"
-    url: "/about/"
+    url: /vol1_landing/
     btn_label: "Read More"
     btn_class: "btn--success"
   - image_path: /assets/images/Canva3D_vol2.png # Vol2_600x840.jpg
     title: "Volume 2"
     excerpt: "**Pulse Width Modulation and DC Motors**<br/>An introduction to the complex world of DC motors in Entity Event-Driven Embedded Systems"
-    url: "#test-link"
+    url: /vol2_landing/
     btn_label: "Read More"
     btn_class: "btn--success" # "btn--secondar"
   - image_path: /assets/images/Canva3D_vol3.png # Canva_Vol3_ComingSoon_600x809-2026.05.23.png # Vol3_600x840.jpg
     title: "Volume 3"
     excerpt: "**Expected Late Fall 2026: Communicating with the UART, I2C, and SPI Interfaces**<br/>An introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems"
-    url: "#test-link"
+    url: /vol3_landing/ #"#test-link"
     btn_label: "Read More"
     btn_class: "btn--success"
   
