@@ -15,7 +15,7 @@ header:
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol3_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
     title: "Expected Late Fall 2026: <br/>Book Description"
-    excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces built into the Raspberry Pi Pico and Pico 2W."
+    excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems."
     url: "#test-link"
     btn_label: "Join the Waitlist & Get Chapter 1"
     btn_class: "btn--primary"
