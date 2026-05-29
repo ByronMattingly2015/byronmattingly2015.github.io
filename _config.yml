@@ -76,6 +76,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:info@cassandrasteampress.com"      
 defaults:
   # _posts
   - scope:
