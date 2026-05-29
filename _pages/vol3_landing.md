@@ -17,8 +17,8 @@ feature_row_left:
     title: "Expected Late Fall 2026: <br/>Book Description"
     excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems."
     url: "#test-link"
-    btn_label: "Join the Waitlist & Get Chapter 1"
-    btn_class: "btn--primary"
+    btn_label: "Read Sample"
+    btn_class: "btn--success"
 
 ---
 {% include feature_row %}
