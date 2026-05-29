@@ -70,6 +70,9 @@ author:
       url: "https://github.com/"
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:info@CassandraSTEAMPress.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.cassandrasteampress.com"
