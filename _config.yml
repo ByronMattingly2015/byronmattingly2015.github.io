@@ -61,6 +61,7 @@ author:
   name   : "Cassandra STEAM Press"
   avatar : "/assets/images/Head_DarkBackground.svg" # "/assets/images/bio-photo.jpg"
   bio    : "See the truth. Listen to the future."
+  email: "your-email@example.com"  # Add a valid email here
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
