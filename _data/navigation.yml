@@ -11,6 +11,11 @@ main:
     url: /contact/
   - title: "Privacy Policy"
     url: /privacy/
+footer:
+  - title: "Contact"
+    url: /contact/
+  - title: "Privacy Policy"
+    url: /privacy/
 #  - title: "Quick-Start Guide"
 #    url: /docs/quick-start-guide/  
 #  - title: "Posts"
