@@ -7,7 +7,6 @@ main:
     url: /vol2_landing/
   - title: "Volume 3"
     url: /vol3_landing/
-footer:
   - title: "Contact"
     url: /contact/
   - title: "Privacy Policy"
