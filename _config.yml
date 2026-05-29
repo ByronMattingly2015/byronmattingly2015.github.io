@@ -69,10 +69,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 footer:
-      # nav: "footer" <-- THIS LINE IS REQUIRED TO LOAD YOUR LINKS  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@CassandraSTEAMPress.com"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:info@CassandraSTEAMPress.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.cassandrasteampress.com"
