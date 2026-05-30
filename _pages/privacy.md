@@ -2,7 +2,7 @@
 layout: single
 title: "Privacy Policy"
 permalink: /privacy/
-author_profile: false
+# author_profile: false
 share: false
 comments: false
 ---
