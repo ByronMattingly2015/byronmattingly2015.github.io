@@ -1,10 +1,10 @@
 ---
-layout: single
+# layout: single
 title: "Privacy Policy"
 permalink: /privacy/
 # author_profile: false
-share: false
-comments: false
+# share: false
+# comments: false
 ---
 
 This website provides information about books published by Cassandra STEAM Press. This website is not intended for individuals under the age of 13. 
