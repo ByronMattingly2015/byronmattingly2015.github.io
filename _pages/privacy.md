@@ -15,4 +15,4 @@ This website does not directly collect personal data, use cookies, or track visi
 **Note regarding Contact:** If you choose to contact the publisher via email [info@CassandraSTEAMPress.com](mailto:info@CassandraSTEAMPress.com), your email address and any information provided will be used solely for the purpose of corresponding with you and will not be sold, shared, or used for marketing purposes.
 
 ### Third-Party Hosting
-This site is hosted on GitHub Pages. For information on how GitHub handles technical server logs or processes data for security and legal purposes, please review the [GitHub Privacy Statement](https://github.com).
+This site is hosted on GitHub Pages. For information on how GitHub handles technical server logs or processes data for security and legal purposes, please review the [GitHub Privacy Policies](https://docs.github.com/en/site-policy/privacy-policies).  
