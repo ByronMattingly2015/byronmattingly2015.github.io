@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/Head_DarkBackground.svg" # "/assets/images/bio-photo.jpg"
   bio    : "See the truth. Listen to the future."
   links:
+    - label: "Privacy Policy"
+      icon: "fas fa-file-contract"
+      url: /privacy/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"  
@@ -73,6 +76,9 @@ author:
       url: "mailto:info@cassandrasteampress.com" 
 footer:
   links:
+    - label: "Privacy Policy"
+      icon: "fas fa-file-contract"
+      url: /privacy/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"  
