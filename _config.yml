@@ -67,7 +67,7 @@ author:
       url: /privacy/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/CassandraSTEAMPress"  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.cassandrasteampress.com"
@@ -81,7 +81,7 @@ footer:
       url: /privacy/
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"  
+      url: "https://github.com/CassandraSTEAMPress"  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.cassandrasteampress.com"
