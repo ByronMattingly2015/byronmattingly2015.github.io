@@ -1,8 +1,9 @@
 ---
-title: "About Cassandra STEAM Press: *Predict the future by creating it*"
+title: "About Cassandra STEAM Press"
 permalink: /about/
 layout: single
 ---
+*Predict the future by creating it*
 
 Welcome to Cassandra STEAM Press — an independent publishing imprint focused on practical, hands-on books for embedded systems, physical computing, and modern event-driven software design.
 
