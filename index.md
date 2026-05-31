@@ -59,7 +59,7 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 ⭐⭐⭐⭐⭐ 5.0 out of 5      
 Reviewed on Amazon in the United States on October 26, 2025  
 
-**A new way for computer science education to compliment AI.**  
+*A new way for computer science education to compliment AI.*  
   
 Byron Mattingly's new books helps us reconceptualize computer science education in a way that complements the revolution in the computational worldview induced by developments in agent-centered AI and machine learning.  
 
