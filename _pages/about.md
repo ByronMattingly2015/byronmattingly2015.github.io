@@ -7,8 +7,6 @@ layout: single
 # About Cassandra STEAM Press
 *"Predict the future by creating it."*
 
-# About Cassandra STEAM Press
-
 Welcome to Cassandra STEAM Press — an independent publishing imprint focused on practical, hands-on books for embedded systems, physical computing, and modern event-driven software design.
 
 Our books are written for makers, hobbyists, STEM and STEAM students, educators, and working professionals who want to build real systems instead of only reading theory.
