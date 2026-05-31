@@ -27,7 +27,7 @@ feature_row_left:
 **Learn by Doing Hands-On Examples**  <br/>
 As you work through the step-by-step projects in this book, you will:
 * Learn the strengths, limitations, and practical uses of UART, I2C, and SPI communication protocols
-* Connect your Pico W or Pico 2W to real-world devices ranging from temperature sensors to legacy RS232 hardware
+* Connect your Pico W or Pico 2W to a variety of real-world hardware, moving from one-wire temperature sensors and legacy RS232 devices to multiple I2C and SPI  components sharing the same bus
 * Discover how data moves between embedded systems and peripheral chips at the electrical and protocol level
 * Build responsive sensor and device interfaces using MicroPython’s asyncio library
 * Read and process device data streams without blocking your event loop
