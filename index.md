@@ -62,7 +62,7 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
-<i class="fas fa-star" style="color: #f39c12;"></i>
+<i class="fas fa-star" style="color: #f39c12;"></i> 5.0 out of 5      
 
 Reviewed on Amazon in the United States on October 26, 2025  
 
