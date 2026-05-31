@@ -57,6 +57,13 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 
 **What Readers are Saying**  <br/>
 ⭐⭐⭐⭐⭐ 5.0 out of 5      
+
+<i class="fas fa-star" style="color: #f39c12;"></i>
+<i class="fas fa-star" style="color: #f39c12;"></i>
+<i class="fas fa-star" style="color: #f39c12;"></i>
+<i class="fas fa-star" style="color: #f39c12;"></i>
+<i class="fas fa-star" style="color: #f39c12;"></i>
+
 Reviewed on Amazon in the United States on October 26, 2025  
 
 *A new way for computer science education to compliment AI.*  
