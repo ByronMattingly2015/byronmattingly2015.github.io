@@ -8,10 +8,10 @@ header:
   caption: "Casandra STEAM Press"
 # excerpt: "Volume 1: GPIO and Asynchronous Programming with Microdot"
   actions:
-    - label: "Buy on Amazon"  
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: "Buy on Ingram-Spark"
-      url: "https://github.com"  
+    - label: "Buy on Amazon.com"  
+      url: "https://Amazon.com"
+    - label: "Buy on IngramSpark.com"
+      url: "https://IngramSpark.com"  
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol2_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
     title: "Book Description"
