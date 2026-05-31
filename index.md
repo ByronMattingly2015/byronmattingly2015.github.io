@@ -68,7 +68,6 @@ The Raspberry Pi Pico W and 2W can help us redesign high school and junior colle
 The second volume–which can be read independently or in sequence with the first–should be invaluable for its discussion of DC motors. These two volumes give future students the skills they need to develop new applications of embedded systems in the design of computation-based devices in Chemistry, Physics, and Biology, leading to new scientific and commercial products.  
 
 As a bonus, Mattingly's books shows how to write elegant, well-documented Python code.  
-#, which is further aided by systematic text coloring.  
 
 ---  
 **About the Author**   <br/>
