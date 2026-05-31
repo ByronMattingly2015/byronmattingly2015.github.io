@@ -1,4 +1,5 @@
 ---
+# https://www.amazon.com/dp/B0G3M799HQ
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
@@ -16,9 +17,9 @@ header:
   caption: "Cassandra STEAM Press"
   actions:
     - label: "Buy on Amazon.com"  
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://www.amazon.com/dp/B0G3M799HQ"
     - label: "Buy on IngramSpark.com"
-      url: "https://github.com/mmistakes/minimal-mistakes/"  
+      url: "https://www.IngramSpark.com"  
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   # - excerpt_class: "text-left" # Centered with `type="center"`
@@ -49,3 +50,24 @@ feature_row:
 ---
 {% include feature_row id="intro" type="center"%}    
 {% include feature_row %} 
+---
+**Who These Books Are For**   <br/>
+The primary audience for these book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
+It is assumed you know the basics of Python and have a host computer (a Raspberry Pi, Windows PC, or Apple mac), a Pico W or Pico 2W (these are available with the headers already soldered on), and some electronic components (such as a breadboard, LEDs, a button switch and Piezo buzzer). 
+
+**What Readers are Saying**  <br/>
+5.0 out of 5 stars    
+Reviewed on Amazon in the United States on October 26, 2025  
+
+**A new way for computer science education to compliment AI.**  
+  
+Byron Mattingly's new books helps us reconceptualize computer science education in a way that complements the revolution in the computational worldview induced by developments in agent-centered AI and machine learning.  
+
+The Raspberry Pi Pico W and 2W can help us redesign high school and junior college computer science classes to focus on computation in the design of experiments aimed at discovering new data that cannot be produced simply by further scraping the already well-scraped internet.  
+
+The second volume–which can be read independently or in sequence with the first–should be invaluable for its discussion of DC motors. These two volumes give future students the skills they need to develop new applications of embedded systems in the design of computation-based devices in Chemistry, Physics, and Biology, leading to new scientific and commercial products.  
+
+As a bonus, Mattingly's book shows how to write elegant, well-documented Python code #, which is further aided by systematic text coloring.  
+
+**About the Author**   <br/>
+Byron Mattingly has been an embedded systems software engineer and hands-on technical manager for over 20 years in regulated development in the medical devices, pharmaceutical, and avionics industries. Currently his work is focused on designing and integrating complex IT systems and training and deploying AI/ML models interacting with embedded systems. An early adopter of the Raspberry Pi platform, he is an open source contributor and avid proponent of STEAM education.
