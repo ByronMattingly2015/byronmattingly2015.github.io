@@ -9,7 +9,7 @@ header:
 # excerpt: "Volume 1: GPIO and Asynchronous Programming with Microdot"
   actions:
     - label: "Buy on Amazon.com"  
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://www.amazon.com/Getting-Started-Event-Driven-Embedded-Systems/dp/B0GJ1R22JS"
     - label: "Buy on Ingram-Spark.com"
       url: "https://github.com"  
 feature_row_left:
