@@ -15,7 +15,7 @@ header:
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol3_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
     title: "Expected Late Fall 2026: <br/>Book Description"
-    excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems."
+    excerpt: "This book is an introduction to communicating with the UART, I2C, and SPI interfaces in Entity Event-Driven Embedded Systems. <br/><br/>Using MicroPython’s asyncio library and Microdot, makers, hobbyists, students, and professionals can provide microservices and other data consumers / AI Agents in Event-Driven Architectures with important, "real-time" telemetry from a massive variety of external peripheral chips controlled by the Raspberry Pi Pico W or Pico 2W. <br/><br/>This practical and straightforward guide takes you from reading simple one-wire temperature sensors and communicating with legacy RS232 hardware via UART to managing high-speed data streams across multi-device I2C and SPI buses. It gets you started with decoding how digital information moves across physical wires by way of some of the most common, low-cost sensor and peripheral modules available today."
     url: "#test-link"
     btn_label: "Read Sample"
     btn_class: "btn--success"
@@ -25,13 +25,15 @@ feature_row_left:
 {% include feature_row id="feature_row_left" type="left" %}  
 
 **Learn by Doing Hands-On Examples**  <br/>
-As you work through the examples in this guide, you will:  
-* Start writing MicroPython for your Pico using Thonny (or your favorite IDE)
-* Become familiar with your Pico's computational and machine-to-machine (M2M) capabilities using JSON
-* Learn how to start connecting and controlling the physical world with your Pico's pins
-* Discover how to transform your wireless-enabled Pico into an Entity Event-Driven Embedded System with socket programming
-* Transform your Pico into an Entity Event-Driven Embedded System using Microdot
-* Implement concurrency on your Entity Event-Driven Embedded Pico Systems using asyncio's and Microdot's cooperative multitasking approach, improving responsiveness and efficient resource usage
+As you work through the step-by-step projects in this book, you will:
+* Learn the strengths, limitations, and practical uses of UART, I2C, and SPI communication protocols
+* Connect your Pico W or Pico 2W to real-world devices ranging from temperature sensors to legacy RS232 hardware
+* Discover how data moves between embedded systems and peripheral chips at the electrical and protocol level
+* Build responsive sensor and device interfaces using MicroPython’s asyncio library
+* Read and process device data streams without blocking your event loop
+* Create asynchronous drivers that allow multiple hardware devices to communicate concurrently on a single Pico system
+* Explore practical debugging techniques for diagnosing timing, wiring, and communication problems on breadboard prototypes
+* Transform standalone hardware projects into responsive Entity Event-Driven Embedded Systems
   
 **Who This Book Is For**   <br/>
 The primary audience for this book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
