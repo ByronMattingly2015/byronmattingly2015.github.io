@@ -15,12 +15,10 @@ header:
   overlay_image: /assets/images/STEAMHead.svg #STEAMLogo.svg CassandraSTEAM_head.jpg /assets/images/coffee.jpg
   caption: "Cassandra STEAM Press"
   actions:
-    - label: "Buy on Amazon"  
+    - label: "Buy on Amazon.com"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
-      description: "Buy on Amazon.com"
-    - label: "Buy on IngramSpark"
+    - label: "Buy on IngramSpark.com"
       url: "https://github.com/mmistakes/minimal-mistakes/"  
-      description: "Buy on IngramSpark.com"
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   # - excerpt_class: "text-left" # Centered with `type="center"`
