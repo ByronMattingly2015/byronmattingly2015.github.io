@@ -17,8 +17,10 @@ header:
   actions:
     - label: "Buy on Amazon"  
       url: "https://github.com/mmistakes/minimal-mistakes/"
-    - label: "Buy on Ingram-Spark"
-      url: "https://github.com"  
+      description: "Buy on Amazon.com"
+    - label: "Buy on IngramSpark"
+      url: "https://github.com/mmistakes/minimal-mistakes/"  
+      description: "Buy on IngramSpark.com"
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   # - excerpt_class: "text-left" # Centered with `type="center"`
