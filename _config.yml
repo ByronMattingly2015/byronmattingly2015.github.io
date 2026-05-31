@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Cassandra STEAM Press"
   avatar : "/assets/images/Head_DarkBackground.svg" # "/assets/images/bio-photo.jpg"
-  bio    : "See the truth. Listen to the future."
+  bio    : "*Predict the future by creating it.*"
   links:
     - label: "Privacy Policy"
       icon: "fas fa-shield-alt" # "fas fa-file-contract"
