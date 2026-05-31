@@ -8,9 +8,9 @@ header:
   caption: "Casandra STEAM Press"
 # excerpt: "Volume 3: Communicating with the UART, I2C, and SPI Interfaces"
   actions:
-#    - label: "Buy on Amazon"  
-#      url: "https://github.com/mmistakes/minimal-mistakes/"
-#    - label: "Buy on Ingram-Spark"
+#    - label: "Buy on Amazon.com"  
+#      url: "https://github.com"
+#    - label: "Buy on IngramSpark.com"
 #      url: "https://github.com"  
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol3_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
