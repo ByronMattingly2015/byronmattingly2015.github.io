@@ -1,5 +1,5 @@
 ---
-title: "About Cassandra STEAM Press: *"Predict the future by creating it."*"
+title: "About Cassandra STEAM Press: *Predict the future by creating it*"
 permalink: /about/
 layout: single
 ---
