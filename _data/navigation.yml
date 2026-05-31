@@ -3,10 +3,13 @@ main:
     url: /about/
   - title: "Volume 1"
     url: /vol1_landing/
+    description: "GPIO and Asynchronous Programming with Microdot"
   - title: "Volume 2"
     url: /vol2_landing/
+    description: "Pulse Width Modulation and DC Motors"
   - title: "Volume 3"
     url: /vol3_landing/
+    description: "Communicating with the UART, I2C, and SPI Interfaces"    
   - title: "Contact"
     url: /contact/
   - title: "Privacy Policy"
