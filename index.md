@@ -52,7 +52,7 @@ feature_row:
 {% include feature_row %} 
 
 **Who These Books Are For**   <br/>
-The primary audience for these book are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
+The primary audience for these books are makers, hobbyists, students and professionals who want to learn more about Entity Event-Driven Embedded Systems using MicroPython's asyncio library and Microdot. 
 It is assumed you know the basics of Python and have a host computer (a Raspberry Pi, Windows PC, or Apple mac), a Pico W or Pico 2W (these are available with the headers already soldered on), and some electronic components (such as a breadboard, LEDs, a button switch and Piezo buzzer). 
 
 **What Readers are Saying**  <br/>
@@ -65,7 +65,7 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 
 *A new way for computer science education to compliment AI.*  
   
-Byron Mattingly's new books helps us reconceptualize computer science education in a way that complements the revolution in the computational worldview induced by developments in agent-centered AI and machine learning.  
+Byron Mattingly's new books help us reconceptualize computer science education in a way that complements the revolution in the computational worldview induced by developments in agent-centered AI and machine learning.  
 
 The Raspberry Pi Pico W and 2W can help us redesign high school and junior college computer science classes to focus on computation in the design of experiments aimed at discovering new data that cannot be produced simply by further scraping the already well-scraped internet.  
 
