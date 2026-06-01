@@ -5,7 +5,7 @@ permalink: /vol3_landing/
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/STEAMHead.svg # DIYBookCovers_Vol3_3D.jpg
-  caption: "Casandra STEAM Press"
+  caption: "Cassandra STEAM Press"
 # excerpt: "Volume 3: Communicating with the UART, I2C, and SPI Interfaces"
   actions:
 #    - label: "Buy on Amazon.com"  
