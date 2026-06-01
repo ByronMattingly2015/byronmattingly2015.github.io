@@ -14,7 +14,7 @@ header:
   overlay_color: "#000"
   # overlay_filter: "0.1"
   overlay_image: /assets/images/STEAMHead.svg #STEAMLogo.svg CassandraSTEAM_head.jpg /assets/images/coffee.jpg
-  caption: "Cassandra STEAM Press"
+  caption: "Homepage"
   actions:
     - label: "Buy on Amazon.com"  
       url: "https://www.amazon.com/dp/B0G3M799HQ"
