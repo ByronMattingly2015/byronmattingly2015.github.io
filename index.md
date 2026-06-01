@@ -56,12 +56,12 @@ The primary audience for these book are makers, hobbyists, students and professi
 It is assumed you know the basics of Python and have a host computer (a Raspberry Pi, Windows PC, or Apple mac), a Pico W or Pico 2W (these are available with the headers already soldered on), and some electronic components (such as a breadboard, LEDs, a button switch and Piezo buzzer). 
 
 **What Readers are Saying**  <br/>
-Reviewed on Amazon in the United States on October 26, 2025   
+     
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
-<i class="fas fa-star" style="color: #f39c12;"></i> 5.0 out of 5      
+<i class="fas fa-star" style="color: #f39c12;"></i> 5 stars      
 
 *A new way for computer science education to compliment AI.*  
   
