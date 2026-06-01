@@ -61,7 +61,7 @@ It is assumed you know the basics of Python and have a host computer (a Raspberr
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
 <i class="fas fa-star" style="color: #f39c12;"></i>
-<i class="fas fa-star" style="color: #f39c12;"></i> 5 stars      
+<i class="fas fa-star" style="color: #f39c12;"></i> 5 stars 
 
 *A new way for computer science education to compliment AI.*  
   
