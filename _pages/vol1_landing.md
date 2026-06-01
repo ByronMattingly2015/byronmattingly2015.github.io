@@ -5,7 +5,7 @@ permalink: /vol1_landing/
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/STEAMHead.svg # DIYBookCovers_Vol1_3D.jpg
-  caption: "Casandra STEAM Press"
+  caption: "Cassandra STEAM Press"
 # excerpt: "Volume 1: GPIO and Asynchronous Programming with Microdot"
   actions:
     - label: "Buy on Amazon.com"  
