@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Cassandra STEAM Press"
-  avatar : "/assets/images/Head_DarkBackground.svg" # "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/STEAMHead.svg" # Head_DarkBackground.svg "/assets/images/bio-photo.jpg"
   bio    : "*Predict the future by creating it.*"
   links:
     - label: "Privacy Policy"
