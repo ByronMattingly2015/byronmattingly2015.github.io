@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/STEAMHead.svg" # Head_DarkBackground.svg "/assets/images/bio-photo.jpg"
   bio    : "*Predict the future by creating it.*"
   links:
-    - label: "Privacy Policy"
+    - label: "Terms of Service & Privacy Policy"
       icon: "fas fa-shield-alt" # "fas fa-file-contract"
       url: /privacy/
     - label: "GitHub"
@@ -76,7 +76,7 @@ author:
       url: "mailto:info@cassandrasteampress.com" 
 footer:
   links:
-    - label: "Privacy Policy"
+    - label: "Terms of Service & Privacy Policy"
       icon: "fas fa-shield-alt" # "fas fa-file-contract"
       url: /privacy/
     - label: "GitHub"
