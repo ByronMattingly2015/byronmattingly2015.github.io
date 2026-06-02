@@ -12,7 +12,7 @@ main:
     description: "Communicating with the UART, I2C, and SPI Interfaces"    
   - title: "Contact"
     url: /contact/
-  - title: "Privacy Policy"
+  - title: "Terms of Service & Privacy Policy"
     url: /privacy/
 footer:
   - title: "Contact"
