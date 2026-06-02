@@ -1,6 +1,6 @@
 ---
 # layout: single
-title: "Terms of Service and Privacy Policy"
+title: "Terms of Service & Privacy Policy"
 permalink: /privacy/
 # author_profile: false
 # share: false
