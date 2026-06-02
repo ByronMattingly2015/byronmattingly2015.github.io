@@ -6,7 +6,8 @@ permalink: /privacy/
 # share: false
 # comments: false
 ---
-*Last Updated: June 1, 2026*
+*Last Updated: June 1, 2026*  
+  
 This page outlines the terms of service and privacy policy for using this website and explains how visitor data is handled. By using this website, you agree to these terms.
 ---
 
