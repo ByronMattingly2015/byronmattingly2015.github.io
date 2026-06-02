@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Buy on Amazon.com"  
       url: "https://www.amazon.com/Getting-Started-Event-Driven-Embedded-Systems/dp/B0GJ1R22JS"
-    - label: "Buy on Ingram-Spark.com"
+    - label: "Buy on IngramSpark.com"
       url: "https://github.com"  
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol1_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
