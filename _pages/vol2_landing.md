@@ -9,9 +9,9 @@ header:
 # excerpt: "Volume 1: GPIO and Asynchronous Programming with Microdot"
   actions:
     - label: "Buy on Amazon.com"  
-      url: "https://Amazon.com"
-    - label: "Buy on IngramSpark.com"
-      url: "https://IngramSpark.com"  
+      url: "https://www.amazon.com/Getting-Started-Event-Driven-Embedded-Systems/dp/B0G2WKWC43"
+#    - label: "Buy on IngramSpark.com"
+#      url: "https://IngramSpark.com"  
 feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol2_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
     title: "Book Description"
