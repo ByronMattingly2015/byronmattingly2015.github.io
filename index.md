@@ -18,8 +18,8 @@ header:
   actions:
     - label: "Buy on Amazon.com"  
       url: "https://www.amazon.com/Getting-Started-Event-Driven-Embedded-Systems/dp/B0G2WKWC43"
-    - label: "Buy on IngramSpark.com"
-      url: "https://www.IngramSpark.com"  
+#    - label: "Buy on IngramSpark.com"
+#      url: "https://www.IngramSpark.com"  
 excerpt: "Getting Started with Entity Event-Driven Embedded Systems"
 intro: 
   # - excerpt_class: "text-left" # Centered with `type="center"`
