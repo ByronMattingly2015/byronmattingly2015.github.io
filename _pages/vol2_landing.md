@@ -16,7 +16,7 @@ feature_row_left:
   - image_path: /assets/images/DIYBookCovers_Vol2_3D.jpg # Vol1_600x840.jpg Canva3D_vol1.png 
     title: "Book Description"
     excerpt: "This book is a streamlined introduction to the complex world of DC motors in Entity Event-Driven Embedded Systems. <br/><br/>Using MicroPython’s asyncio library and Microdot, makers, hobbyists, students and professionals can provide microservices and other data consumers / AI Agents in Event-Driven Architectures with important “real-time” information about the operating characteristics of DC motors controlled by Entity Event-Driven Embedded Systems using the Raspberry Pi Pico W or Pico 2W. <br/><br/>This practical and straightforward guide takes you from fading an LED with a potentiometer and Pulse Width Modulation (PWM) to full and half step sequencing of a stepper motor. It gets you started with using the Pico's GPIO pins and PWM by way of some of the most common but low-cost DC motors available today."
-    url: "/assets/files/GettingStarted_Pico_Vol1_sample-2026.06.09.pdf"
+    url: "/assets/files/GettingStarted_Pico_Vol2_sample-2026.06.09.pdf"
     btn_label: "Read Sample"
     btn_class: "btn--success"
 
