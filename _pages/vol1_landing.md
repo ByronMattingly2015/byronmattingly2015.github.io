@@ -19,6 +19,7 @@ feature_row_left:
     url: "/assets/files/GettingStarted_Pico_Vol1_sample-2026.06.09.pdf"
     btn_label: "Read Sample"
     btn_class: "btn--success"
+    target: "_blank"
 ---
 {% include feature_row %}
 {% include feature_row id="feature_row_left" type="left" %}  
